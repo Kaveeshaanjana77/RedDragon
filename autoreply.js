@@ -6,6 +6,9 @@ const autoReply = (msg) => {
     if(msg.match(/😒/gi)){
         R = "😒මොකෝ"
     }
+    if(msg.match(/utto|hukam|ponnaya|pinnaya/gi)){
+        R = "_https://i.imgur.com/ztLooi4.mp4_"
+    }
     if(msg.match(/🥲/gi)){
         R = "🥲💔"
     }
