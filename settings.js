@@ -14,7 +14,7 @@ global.keyopenai = "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"
 global.prefa = ['','!','.','#','&']
 global.imgbb_api = "d0b9dc245ba73796cdadfbdfb01ca198"
 //auto seen
-global.messageSeen = false
+global.messageSeen = true
 
 
 
